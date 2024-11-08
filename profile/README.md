@@ -2,7 +2,7 @@
 # Daedalus Electronics
 Welcome to the Daedalus Electronics github.
 
-##Useful Links
+## Useful Links
 Here are some helpful resources and links:
 
 - **Projects**  
