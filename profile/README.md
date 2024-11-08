@@ -6,7 +6,7 @@ Welcome to the Daedalus Electronics github.
 Here are some helpful resources and links:
 
 - **Projects**  
-  - [FC V0](https://github.com/DaedalusElectronics/DE_FCV0): Repository for Daedalus Electronics' first generation flight computer FC V0)
+  - [FC V0](https://github.com/DaedalusElectronics/DE_FCV0): Repository for Daedalus Electronics' first generation flight computer FC V0
   - [Project B](https://github.com/username/project-b): Placeholder text.
 
 - **Additional Resources**  
